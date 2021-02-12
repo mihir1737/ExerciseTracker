@@ -1,3 +1,6 @@
+This is my first MERN stack project,which is build with the help of the video tutorial on youtube(link is below).
+https://youtu.be/7CqJlxBYj-M?list=PLbaGp8sooTb9jhYPYGw2ftf6Xazb6P9ME
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
